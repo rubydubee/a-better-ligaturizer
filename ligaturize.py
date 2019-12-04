@@ -60,7 +60,7 @@ def split_camel_case(str):
     return acc
 
 config = {
-    'firacode_ttf': 'FiraCode-Regular.otf',
+    'firacode_ttf': 'FiraCode-Medium.otf',
 
     'add_ligatures': [
         {   # <-
